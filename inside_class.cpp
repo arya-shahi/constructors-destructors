@@ -26,3 +26,10 @@ int main()
     date today;
 }
 
+/*
+Enter date: 7
+Enter month: 3
+Enter  Year: 2024
+Today's Date is: 
+7/3/2024
+    */
