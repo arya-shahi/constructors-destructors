@@ -41,3 +41,9 @@ int main() {
     s1.display();
     return 0;
 }
+/*
+Enter your PRN: 23030
+Enter your name: arya
+Enter your fees: 400000
+PRN: 23030      Name: arya      Fee: 400000
+    */
