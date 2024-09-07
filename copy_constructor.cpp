@@ -34,4 +34,8 @@ int main(){
     return 0;
     }
 
+/*
+Area of Wall 1:80
+area of Wall 2:80
+*/
 
