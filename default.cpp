@@ -19,3 +19,7 @@ int main()
     return 1;
 }
 
+/*
+a:10
+b:20
+ */
